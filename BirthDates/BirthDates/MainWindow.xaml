@@ -1,0 +1,43 @@
+﻿<Window x:Class="BirthDates.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BirthDates"
+        mc:Ignorable="d"
+        Title="День рождения" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="22"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <GridSplitter Grid.Row="0" Width="3"></GridSplitter>
+        <Canvas Grid.Row="1" x:Name="canvas">
+            <ComboBox Canvas.Left="130" Canvas.Top="114" Width="235" x:Name="cb" DisplayMemberPath="name" />
+            <Label Content="День" Canvas.Left="451" Canvas.Top="112" FontWeight="Bold" FontSize="14"/>
+            <Label Content="Посмотреть всех родственников" Canvas.Left="130" Canvas.Top="88" Foreground="#FF3A3E30" FontWeight="Bold" FontSize="14"/>
+            <Label Content="Месяц" Canvas.Left="513" Canvas.Top="112" FontWeight="Bold" FontSize="14"/>
+            <Label Content="Год" Canvas.Left="585" Canvas.Top="112" FontWeight="Bold" FontSize="14"/>
+            <Label Content="" Canvas.Left="458" Canvas.Top="143" x:Name="day" Width="38"/>
+            <Label Content="" Canvas.Left="522" Canvas.Top="143" x:Name="month" Width="46"/>
+            <Label Content="" Canvas.Left="585" Canvas.Top="143" x:Name="year" Width="79"/>
+            <Label Content="Дата рождения" Canvas.Left="458" Canvas.Top="88" Foreground="#FF3A3E30" FontWeight="Bold" FontSize="18" Width="160"/>
+            <Label Content="Сегодня День Варенья у:" Canvas.Left="380" Canvas.Top="235" Width="299" Foreground="#FF2E2ED1" FontSize="22"/>
+            <MediaElement Height="120" Margin="10,10,108,0" LoadedBehavior="Manual" Name="me" VerticalAlignment="Top" />
+        </Canvas>
+        <Menu Grid.Row="0" Height="25" VerticalAlignment="Stretch">
+            <MenuItem Header="_Меню">
+                <MenuItem Header="_Добавить" Click="MenuItem_Click_3"></MenuItem>
+                <MenuItem Header="_Удалить" Click="MenuItem_Click"></MenuItem>
+                <MenuItem Header="_Изменить" Click="MenuItem_Click_4"></MenuItem>
+                <Separator/>
+                <MenuItem Header="_Выход" Click="MenuItem_Click_2"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Справка">
+                <MenuItem Header="_О программе" Click="MenuItem_Click_1"></MenuItem>
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+   
+</Window>

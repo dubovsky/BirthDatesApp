@@ -1,0 +1,36 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\bin\Release\BirthDates.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\bin\Release\BirthDates.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\bin\Release\BirthDates.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\ChangeData.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\MainWindow.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\Window1.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\App.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\BirthDates_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\BirthDates_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\ChangeData.baml
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\MainWindow.baml
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\Window1.baml
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\BirthDates.g.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\BirthDates.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\BirthDates.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\BirthDates.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\BirthDates.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\BirthDates\BirthDates\obj\Release\BirthDates.pdb
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\bin\Release\BirthDates.exe.config
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\bin\Release\BirthDates.exe
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\bin\Release\BirthDates.pdb
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\ChangeData.g.cs
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\MainWindow.g.cs
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\Window1.g.cs
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\App.g.cs
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\BirthDates_MarkupCompile.cache
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\BirthDates_MarkupCompile.lref
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\ChangeData.baml
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\MainWindow.baml
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\Window1.baml
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\BirthDates.g.resources
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\BirthDates.Properties.Resources.resources
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\BirthDates.csproj.GenerateResource.cache
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\BirthDates.csproj.CoreCompileInputs.cache
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\BirthDates.exe
+D:\Alex\github\BirthDatesApp\BirthDates\BirthDates\obj\Release\BirthDates.pdb
