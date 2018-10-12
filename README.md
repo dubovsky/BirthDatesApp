@@ -9,6 +9,8 @@ This application serves as a birthday reminder for you. You can add, change or r
 ### Prerequisites
 
 OS Windows
+
+### Installation
 ```sh
 Find and run: 
 - BirthDaysSetup.msi
