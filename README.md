@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+This application serves as a birthday reminder for you. You can add, change or remove data about you farmily member or friend.
 
 ---
 <a href="https://github.com/VladTsiukin/ECore/blob/master/media/logo.svg?sanitize=true"><img src="https://github.com/VladTsiukin/ECore/blob/master/media/logo.svg?sanitize=true" /></a>
