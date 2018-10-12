@@ -13,7 +13,7 @@ OS Windows
 Find and run: 
 - BirthDaysSetup.msi
 ```
-Find and run BirthDaysSetup.msi
 
-#### Contacts 
+
+### Contacts 
 - e-mail: bondagefist@mail.ru
